@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/atabiqkhan/Library/Developer/Xcode/DerivedData/SimpleMultiplication-clqqueoatuhgihgdojsohxabaxta/Build/Intermediates.noindex/ArchiveIntermediates/SimpleMultiplication/InstallationBuildProductsLocation/Library/Frameworks/SimpleMultiplication.framework/SimpleMultiplication'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x2ED7E, size: 0x8, addend: 0x0, symName: _SimpleMultiplicationVersionString, symObjAddr: 0x0, symBinAddr: 0x3E80, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x2EDB3, size: 0x8, addend: 0x0, symName: _SimpleMultiplicationVersionNumber, symObjAddr: 0x48, symBinAddr: 0x3EC8, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x2EDF0, size: 0x8, addend: 0x0, symName: '_$s20SimpleMultiplicationAACABycfC', symObjAddr: 0x0, symBinAddr: 0x3DC4, symSize: 0x10 }
+  - { offsetInCU: 0xC4, offset: 0x2EE8D, size: 0x8, addend: 0x0, symName: '_$s20SimpleMultiplicationAACMa', symObjAddr: 0x4C, symBinAddr: 0x3E10, symSize: 0x20 }
+  - { offsetInCU: 0x15A, offset: 0x2EF23, size: 0x8, addend: 0x0, symName: '_$s20SimpleMultiplicationAACABycfC', symObjAddr: 0x0, symBinAddr: 0x3DC4, symSize: 0x10 }
+  - { offsetInCU: 0x16E, offset: 0x2EF37, size: 0x8, addend: 0x0, symName: '_$s20SimpleMultiplicationAACABycfc', symObjAddr: 0x10, symBinAddr: 0x3DD4, symSize: 0x8 }
+  - { offsetInCU: 0x19A, offset: 0x2EF63, size: 0x8, addend: 0x0, symName: '_$s20SimpleMultiplicationAAC7productyS2i_SitF', symObjAddr: 0x18, symBinAddr: 0x3DDC, symSize: 0x1C }
+  - { offsetInCU: 0x1F4, offset: 0x2EFBD, size: 0x8, addend: 0x0, symName: '_$s20SimpleMultiplicationAACfd', symObjAddr: 0x34, symBinAddr: 0x3DF8, symSize: 0x8 }
+  - { offsetInCU: 0x21F, offset: 0x2EFE8, size: 0x8, addend: 0x0, symName: '_$s20SimpleMultiplicationAACfD', symObjAddr: 0x3C, symBinAddr: 0x3E00, symSize: 0x10 }
+...

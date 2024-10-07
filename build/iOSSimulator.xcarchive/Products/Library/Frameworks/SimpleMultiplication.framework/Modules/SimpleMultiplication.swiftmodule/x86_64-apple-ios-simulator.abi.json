@@ -1,0 +1,89 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SimpleMultiplication",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SimpleMultiplication",
+        "printedName": "SimpleMultiplication",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SimpleMultiplication",
+                "printedName": "SimpleMultiplication.SimpleMultiplication",
+                "usr": "s:20SimpleMultiplicationAAC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:20SimpleMultiplicationAACABycfc",
+            "mangledName": "$s20SimpleMultiplicationAACABycfc",
+            "moduleName": "SimpleMultiplication",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "product",
+            "printedName": "product(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:20SimpleMultiplicationAAC7productyS2i_SitF",
+            "mangledName": "$s20SimpleMultiplicationAAC7productyS2i_SitF",
+            "moduleName": "SimpleMultiplication",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:20SimpleMultiplicationAAC",
+        "mangledName": "$s20SimpleMultiplicationAAC",
+        "moduleName": "SimpleMultiplication",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

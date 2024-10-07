@@ -1,0 +1,6 @@
+framework module SimpleMultiplication {
+  umbrella header "SimpleMultiplication.h"
+  export *
+
+  module * { export * }
+}
