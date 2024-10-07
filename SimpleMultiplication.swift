@@ -12,7 +12,7 @@ public class SimpleMultiplication {
     public init() {
         
     }
-    public func product(_ a: Int, _ b: Int) -> Int {
+    public static func product(_ a: Int, _ b: Int) -> Int {
         return a * b
     }
 }
