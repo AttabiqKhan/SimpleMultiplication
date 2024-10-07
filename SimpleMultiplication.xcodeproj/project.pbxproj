@@ -9,12 +9,14 @@
 /* Begin PBXBuildFile section */
 		595E73C12CB39C7A0093B744 /* SimpleMultiplication.docc in Sources */ = {isa = PBXBuildFile; fileRef = 595E73C02CB39C7A0093B744 /* SimpleMultiplication.docc */; };
 		595E73C22CB39C7A0093B744 /* SimpleMultiplication.h in Headers */ = {isa = PBXBuildFile; fileRef = 595E73BF2CB39C7A0093B744 /* SimpleMultiplication.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		595E73C92CB3A77F0093B744 /* SimpleMultiplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 595E73C82CB3A77F0093B744 /* SimpleMultiplication.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		595E73BC2CB39C7A0093B744 /* SimpleMultiplication.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SimpleMultiplication.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		595E73BF2CB39C7A0093B744 /* SimpleMultiplication.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SimpleMultiplication.h; sourceTree = "<group>"; };
 		595E73C02CB39C7A0093B744 /* SimpleMultiplication.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = SimpleMultiplication.docc; sourceTree = "<group>"; };
+		595E73C82CB3A77F0093B744 /* SimpleMultiplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleMultiplication.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +33,7 @@
 		595E73B22CB39C790093B744 = {
 			isa = PBXGroup;
 			children = (
+				595E73C82CB3A77F0093B744 /* SimpleMultiplication.swift */,
 				595E73BE2CB39C7A0093B744 /* SimpleMultiplication */,
 				595E73BD2CB39C7A0093B744 /* Products */,
 			);
@@ -133,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				595E73C12CB39C7A0093B744 /* SimpleMultiplication.docc in Sources */,
+				595E73C92CB3A77F0093B744 /* SimpleMultiplication.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
